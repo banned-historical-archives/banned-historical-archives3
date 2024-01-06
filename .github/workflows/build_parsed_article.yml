@@ -21,6 +21,10 @@ jobs:
           ref: 'main'
       - uses: actions/checkout@v4
         with:
+          path: './raw'
+          ref: 'main'
+      - uses: actions/checkout@v4
+        with:
           path: './ocr_config'
           ref: 'ocr_config'
       - uses: actions/checkout@v4
@@ -39,7 +43,7 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 18
-      - run: cd ocr_helper && npm install && npm run build_parsed_article -- ../ocr_config ../ocr_cache ../ocr_patch ../parsed_article
+      - run: cd ocr_helper && npm install && npm run build_parsed_article -- ../ocr_config ../ocr_cache ../ocr_patch ../parsed_article ../raw
       - run: git config --global http.postBuffer 2097152000
       - run: git config --global user.email "you@example.com"
       - run: git config --global user.name "Your Name"
