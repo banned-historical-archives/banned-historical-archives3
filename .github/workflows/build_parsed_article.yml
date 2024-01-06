@@ -2,7 +2,7 @@ name: build_parsed_article
 on:
   workflow_dispatch:
   push:
-    branches: ['ocr_patch', 'ocr_cache']
+    branches: ['ocr_patch', 'ocr_cache', 'ocr_config']
 
 permissions:
   contents: write
