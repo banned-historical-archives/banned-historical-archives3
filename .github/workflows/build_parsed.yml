@@ -74,3 +74,4 @@ jobs:
           workflow: build.yml
           ref: master
           repo: banned-historical-archives/banned-historical-archives.github.io
+          token: ${{GH_PAT}}
