@@ -210,5 +210,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/aa251beb-a78f-4ee4-9410-9ea1d1136f81.pdf"
+  "path": "/archives3/aa251beb-a78f-4ee4-9410-9ea1d1136f81.pdf",
+  "resource_type": "book"
 }

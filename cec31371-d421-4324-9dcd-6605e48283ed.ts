@@ -607,5 +607,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/cec31371-d421-4324-9dcd-6605e48283ed.pdf"
+  "path": "/archives3/cec31371-d421-4324-9dcd-6605e48283ed.pdf",
+  "resource_type": "book"
 }

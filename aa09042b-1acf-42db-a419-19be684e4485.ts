@@ -491,5 +491,6 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/aa09042b-1acf-42db-a419-19be684e4485.pdf"
+  "path": "/archives3/aa09042b-1acf-42db-a419-19be684e4485.pdf",
+  "resource_type": "book"
 }
