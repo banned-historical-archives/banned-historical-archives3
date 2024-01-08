@@ -120,5 +120,6 @@ export default {
   },
   "parser_id": "automation",
   "path": "/archives3/ce229b2d-a595-4dc7-982c-43250c13e4b9.pdf",
-  "resource_type": "book"
+  "resource_type": "book",
+  "version": 2
 }
