@@ -299,7 +299,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/2caaa466-6ea4-4dca-aeb8-29a39dd581ca.pdf",
+  "path": "2caaa466-6ea4-4dca-aeb8-29a39dd581ca.pdf",
   "resource_type": "book",
   "version": 2
 }

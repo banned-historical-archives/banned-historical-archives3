@@ -2810,7 +2810,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/b2b674a1-9042-4317-a7b8-de4267668ba5.pdf",
+  "path": "b2b674a1-9042-4317-a7b8-de4267668ba5.pdf",
   "resource_type": "book",
   "version": 2
 }

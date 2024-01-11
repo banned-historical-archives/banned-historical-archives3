@@ -393,7 +393,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/2e01193c-d51e-17cc-8471-72d0d333a71f.pdf",
+  "path": "2e01193c-d51e-17cc-8471-72d0d333a71f.pdf",
   "resource_type": "book",
   "version": 2
 }

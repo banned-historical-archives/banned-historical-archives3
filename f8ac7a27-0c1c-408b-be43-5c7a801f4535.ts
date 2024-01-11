@@ -222,7 +222,7 @@ export default {
     "ocr_exceptions": {}
   },
   "parser_id": "automation",
-  "path": "/archives3/f8ac7a27-0c1c-408b-be43-5c7a801f4535.pdf",
+  "path": "f8ac7a27-0c1c-408b-be43-5c7a801f4535.pdf",
   "resource_type": "book",
   "version": 2
 }
