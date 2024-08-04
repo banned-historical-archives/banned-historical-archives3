@@ -35,7 +35,14 @@ export default {
           {
             "year": 1976
           }
-        ]
+        ],
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       }
     ],
     "ocr": {
@@ -48,4 +55,4 @@ export default {
   "path": "5a790475-01ac-4334-9941-63d3ee59c46c.pdf",
   "resource_type": "book",
   "version": 2
-}
+};

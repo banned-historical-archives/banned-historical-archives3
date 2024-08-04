@@ -37,7 +37,14 @@ export default {
             "month": 4,
             "day": 20
           }
-        ]
+        ],
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "怎样理解资产阶级就在共产党内的科学论断",
@@ -61,7 +68,14 @@ export default {
             "year": 1976,
             "month": 6
           }
-        ]
+        ],
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "从阶级关系的变化看党内资产阶级的形成",
@@ -85,7 +99,14 @@ export default {
             "year": 1976,
             "month": 6
           }
-        ]
+        ],
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "从经济地位和政治态度看走资派就是党内资产阶级",
@@ -174,4 +195,4 @@ export default {
   "path": "d65f2d46-f659-4061-83b6-ab5386ac2dba.pdf",
   "resource_type": "book",
   "version": 2
-}
+};

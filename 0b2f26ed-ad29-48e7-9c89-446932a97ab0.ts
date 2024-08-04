@@ -133,8 +133,8 @@ export default {
       {
         "title": "一个反革命的政治骗局——“四人帮”炮制《答卷》作者这个假典型的调查",
         "authors": [
-          "《辽宁日报》记者",
-          "《人民日报》记者"
+          "《人民日报》记者",
+          "《辽宁日报》记者"
         ],
         "dates": [
           {
@@ -402,9 +402,9 @@ export default {
         "title": "这样介绍“体会”对吗？——对《既要讲批评又要讲谅解》一文的意见",
         "authors": [
           "牛乾一",
-          "胡兴培",
+          "王夙山",
           "罗志成",
-          "王夙山"
+          "胡兴培"
         ],
         "dates": [
           {
@@ -466,10 +466,10 @@ export default {
       {
         "title": "江青、姚文元、迟群、谢静宜在中央直属机关和国家机关批林批孔动员大会上的讲话",
         "authors": [
-          "江青",
           "姚文元",
-          "迟群",
-          "谢静宜"
+          "江青",
+          "谢静宜",
+          "迟群"
         ],
         "dates": [
           {
@@ -675,8 +675,8 @@ export default {
       {
         "title": "“四人帮”在批林批孔中是怎样搞篡党夺权阴谋的",
         "authors": [
-          "郑攀理",
-          "李文"
+          "李文",
+          "郑攀理"
         ],
         "dates": [
           {
@@ -803,8 +803,8 @@ export default {
       {
         "title": "长沙诬告前后——特别法庭第一审判庭侧记之一",
         "authors": [
-          "纪希展",
           "林钢",
+          "纪希展",
           "鲁南"
         ],
         "dates": [],
@@ -1413,8 +1413,8 @@ export default {
       {
         "title": "“评《水浒》运动”到底是怎么一回事？",
         "authors": [
-          "人民文学出版社古典文学编辑室",
-          "《人民日报》文艺部"
+          "《人民日报》文艺部",
+          "人民文学出版社古典文学编辑室"
         ],
         "dates": [
           {
@@ -1762,8 +1762,8 @@ export default {
       {
         "title": "大辩论带来大变化——清华大学教育革命和各项工作出现新面貌",
         "authors": [
-          "新华社记者",
-          "《人民日报》记者"
+          "《人民日报》记者",
+          "新华社记者"
         ],
         "dates": [
           {
@@ -1908,8 +1908,8 @@ export default {
       {
         "title": "评“三项指示为纲”",
         "authors": [
-          "梁效",
-          "任明"
+          "任明",
+          "梁效"
         ],
         "dates": [
           {
@@ -2059,7 +2059,14 @@ export default {
           }
         ],
         "page_start": 410,
-        "page_end": 410
+        "page_end": 410,
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "一个复辟资本主义的总纲——《论全党全国各项工作的总纲》部析",
@@ -2098,7 +2105,14 @@ export default {
         ],
         "dates": [],
         "page_start": 416,
-        "page_end": 417
+        "page_end": 417,
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "江青崇洋媚外里通外国的一出丑剧",
@@ -2329,10 +2343,10 @@ export default {
       {
         "title": "哈尔套经验出笼的前前后后——“四人帮”在辽宁那个死党炮制“哈尔套经验”真相之一",
         "authors": [
-          "中共阜新市委调查组",
+          "《辽宁日报》记者",
           "《阜新日报》记者",
-          "阜新人民广播电台记者",
-          "《辽宁日报》记者"
+          "中共阜新市委调查组",
+          "阜新人民广播电台记者"
         ],
         "dates": [
           {
@@ -2867,8 +2881,8 @@ export default {
       {
         "title": "“四人帮“的一支反革命别动队——揭批原北京大学、清华大学“大批判组”的罪行",
         "authors": [
-          "新华社通讯员",
-          "新华社记者"
+          "新华社记者",
+          "新华社通讯员"
         ],
         "dates": [
           {
@@ -2911,8 +2925,8 @@ export default {
       {
         "title": "自掘攻基自造墓砖——揭批“四人帮”通过帮刊《学习与批判》制造反革命舆论的罪行",
         "authors": [
-          "新华社通讯员",
-          "新华社记者"
+          "新华社记者",
+          "新华社通讯员"
         ],
         "dates": [
           {
@@ -3135,10 +3149,10 @@ export default {
       {
         "title": "民心不可欺——“四人帮”策动上海武装叛乱始末",
         "authors": [
-          "曹章",
+          "张维新",
           "徐绍昌",
-          "邵观光",
-          "张维新"
+          "曹章",
+          "邵观光"
         ],
         "dates": [
           {
@@ -3194,4 +3208,4 @@ export default {
   "path": "0b2f26ed-ad29-48e7-9c89-446932a97ab0.pdf",
   "resource_type": "book",
   "version": 2
-}
+};

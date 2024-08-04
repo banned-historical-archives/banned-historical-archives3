@@ -207,7 +207,14 @@ export default {
           {
             "year": 1976
           }
-        ]
+        ],
+        "ocr": {
+          "det_limit_side_len": 1496,
+          "det_db_box_thresh": 0.3,
+          "rec_model_dir": "./paddle/ch_ppocr_mobile_v2.0_rec_infer",
+          "det_model_dir": "./paddle/ch_PP-OCRv3_det_infer",
+          "drop_score": 0.3
+        }
       },
       {
         "title": "第十五章 共产主义是社会主义发展的必然趋势",
@@ -239,4 +246,4 @@ export default {
   "path": "d7255791-fc0e-4d11-9391-b5a8c1d3cf8b.pdf",
   "resource_type": "book",
   "version": 2
-}
+};
