@@ -1,4 +1,3 @@
 export default [
-  {"version":2,"parts":{"0":{"delete":true,"insertAfter":[{"type":"paragraph","text":"说 明"},{"type":"paragraph","text":"四月七日至十五日，市委宣传组举办了第三次理论讨论会。参加会的有二十六个单位的工农兵业余理论队伍的代表、专业理论工作者和部分基层领导干部，共五十多人。会上，认真学习了毛主席一系列重要指示，批判了邓小平的反革命的修正主义路线，集中讨论了资产阶级就在共产党内的问题。到会同志在大方向一致的前提下，互相学习，共同探讨，各抒己见，畅所欲言，展开了热烈的讨论。经过学习讨论，在一些重要问题上取得了比较一致的意见，但有些问题也还存在不同看法，不同理解。最后由讨论会各小组归纳整理，分别写成五个材料，作了大会发言。"},{"type":"paragraph","text":"由于学习和领会毛主席重要指示还不深入，讨论也仅仅是初步的，这个材料很不成熟，仅供同志们进一步学习讨论毛主席重要指示时参考。"},{"type":"paragraph","text":"中共北京市委宣传组"},{"type":"paragraph","text":"一九七六年四月二十月"}]},"1":{"delete":true},"2":{"delete":true},"3":{"delete":true},"4":{"delete":true},"5":{"delete":true},"6":{"delete":true}},"comments":{}},
-  {"version":2,"parts":{},"description":"","comments":{},"newComments":[]},
-]
+{"version":2,"parts":{"0":{"insertBefore":[{"type":"quotation","text":"毛主席语录"},{"type":"quotation","text":"社会主义革命革到自己头上了，合作化时党内就有人反对，批资产阶级法权他们有反感。搞社会主义革命，不知道资产阶级在哪里，就在共产党内，党内走资本主义道路的当权派。走资派还在走。"}],"type":"title"},"1":{"diff":"=22\t-1\t+%E8%AE%A8\t=53\t+%EF%BC%8C\t=79\t-1\t+%E6%8A%92\t=92"},"2":{"diff":"=60\t+%E3%80%82"},"3":{"type":"signature"},"4":{"diff":"=9\t-1\t+%E6%97%A5","type":"signature"}},"comments":{},"description":""},
+];
